@@ -1,1 +1,1 @@
-This is a readme for algorithm problems
+This is a repository for algorithm problems
