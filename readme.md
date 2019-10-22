@@ -1,1 +1,1 @@
-This is a repository for algorithm problems in JAVA and C.
+This is a repository for algorithm problems in JAVA and C++.
