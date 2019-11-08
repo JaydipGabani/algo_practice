@@ -1,2 +1,2 @@
-This is a repository for algorithm problems. test
+This is a repository for algorithm problems.
  
