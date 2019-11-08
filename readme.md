@@ -1,2 +1,2 @@
-This is a repository for algorithm problems. Test for pull request
+This is a repository for algorithm problems.
  
